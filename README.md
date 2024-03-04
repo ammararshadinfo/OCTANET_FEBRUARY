@@ -2,8 +2,6 @@
 
 Internship Update: Task 1 - Restaurant Landing Page Design
 
-Dear LinkedIn Community,
-
 I am excited to share the progress of my ongoing internship at Tech OctaNet Services Private Limited. As part of my responsibilities, I have successfully completed Task 1, which involved designing a captivating landing page for a restaurant.
 
 Task Overview:
